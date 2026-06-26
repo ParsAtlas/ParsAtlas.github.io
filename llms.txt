@@ -1,0 +1,26 @@
+# Steel Agent Leaderboard
+
+> Benchmark hub with canonical benchmark leaderboard pages.
+
+Maintained by Steel (https://steel.dev).
+
+## Leaderboard
+
+- [WebVoyager](https://leaderboard.steel.dev/leaderboards/webvoyager/): WebVoyager benchmark leaderboard for AI browser agents on 643 live-web tasks across 15 popular websites, with source-linked scores and methodology notes.
+- [BrowseComp](https://leaderboard.steel.dev/leaderboards/browsecomp/): BrowseComp leaderboard for agentic web research systems solving OpenAI's hard-to-find short-answer browsing benchmark, with sourced scores and setup notes.
+- [DRACO](https://leaderboard.steel.dev/leaderboards/draco/): DRACO leaderboard for deep research systems on Perplexity's benchmark: 100 expert-graded research tasks across 10 domains, with sourced scores and notes on the grading judge.
+- [WebArena](https://leaderboard.steel.dev/leaderboards/webarena/): WebArena leaderboard for autonomous browser agents evaluated on reproducible, self-hosted web tasks across shopping, forum, GitLab, CMS, map, and wiki environments.
+- [SWE-bench Verified](https://leaderboard.steel.dev/leaderboards/swe-bench-verified/): SWE-bench Verified leaderboard for coding agents resolving 500 human-filtered real GitHub issues with Docker-based test execution.
+- [Aider](https://leaderboard.steel.dev/leaderboards/aider/): Aider leaderboard ranking LLMs on the Aider Polyglot benchmark: 225 of the hardest Exercism exercises across C++, Go, Java, JavaScript, Python, and Rust, scored inside Aider's real edit loop.
+- [OSWorld](https://leaderboard.steel.dev/leaderboards/osworld/): OSWorld leaderboard for multimodal computer-use agents completing 369 real desktop tasks with execution-based verification.
+- [GAIA](https://leaderboard.steel.dev/leaderboards/gaia/): GAIA leaderboard for general AI assistants answering 466 real-world questions with reasoning, web browsing, tools, and exact final answers.
+- [ClawBench](https://leaderboard.steel.dev/leaderboards/clawbench/): ClawBench leaderboard for browser agents completing 153 everyday state-changing tasks on 144 live production websites.
+- [HealthAdminBench](https://leaderboard.steel.dev/leaderboards/healthadminbench/): HealthAdminBench leaderboard for computer-use agents completing 135 healthcare administration tasks — prior authorization, denials and appeals, and DME orders — across four simulated GUI portals.
+- [Online-Mind2Web](https://leaderboard.steel.dev/leaderboards/online-mind2web/): Online-Mind2Web leaderboard for live web agents on 300 realistic tasks across 136 websites, including human and WebJudge evaluation notes.
+- [τ-bench](https://leaderboard.steel.dev/leaderboards/tau-bench/): τ-bench leaderboard for conversational AI agents collaborating with users across complex enterprise domains, emphasizing policy adherence and pass^k reliability.
+- [AgentBench](https://leaderboard.steel.dev/leaderboards/agentbench/): AgentBench leaderboard for LLM agents across 8 interactive environments, with a focus on function-calling and tool-use results.
+
+## Optional
+
+- [Hub markdown index](https://leaderboard.steel.dev/index.md): Homepage benchmark hub summary.
+- [Full context file](https://leaderboard.steel.dev/llms-full.txt): Leaderboard data in a single text file optimized for LLM context.
